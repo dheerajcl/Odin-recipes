@@ -1,0 +1,41 @@
+
+*{
+    background-color: bisque;
+}
+
+
+h1,h3{
+    color: darkslategrey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center;
+}
+
+h3{
+    font-size: large;
+    font-weight: 500;
+    text-align: left;
+}
+
+.mh{
+    color:darkorange;
+    font-size: medium;
+    text-align: left;
+}
+
+#image{
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width:15%;
+}
+
+
+
+
+
+
